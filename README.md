@@ -19,7 +19,7 @@ There are 2 major technologies that we used during the developpement of this app
 
 # Requirements :
 If you want to use this app, either change some functionnalities or add new ones, you will need to install java first </br>
-Go to this link [JDK 18](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html) and install it to run the code
+Go to this link [JDK 21](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html) and install it to run the code
 
 # Installation :
 Import the project directory to your IDE and it should download all the necessary dependencies if you are using IntelliJ IDEA, otherwise you will need to go the maven central repository and take everything dependencies there. </br>
