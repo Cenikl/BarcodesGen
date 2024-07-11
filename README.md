@@ -31,3 +31,8 @@ If you want to run the application locally, you can run it manually using this c
    mvn spring-boot:run
    ```
 Or you can also just click the run button if you use IntelliJ IDEA as an IDE.
+
+If you want to build an image from it, use the buildpack integrated in spring boot:
+   ```sh
+   mvn spring-boot:build-image -D spring-boot.build-image.imageName=BarcodesGen
+   ```
